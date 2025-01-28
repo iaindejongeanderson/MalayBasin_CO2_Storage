@@ -49,7 +49,7 @@ for i in unique_vals:
     count = len(c)
     area_km2 = 100 * 100 * count * 1e-6
     print(i,area_km2)
-    if area_km2 < 200:
+    if area_km2 < 100:
         df_out[df_out['z']==i]=0
     
 
