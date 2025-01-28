@@ -1,0 +1,9 @@
+Group	Mean thickness (m)	Standard deviation thickness (m)	Mean net-to-gross	Standard deviation net-to-gross
+B	162	12	0.17	0.09
+D	287	262	0.16	0.09
+E	354	280	0.27	0.14
+F	449	415	0.12	0.06
+H	393	294	0.12	0.1
+I	610	264	0.13	0.08
+J	272	118	0.42	0.17
+K	383	176	0.44	0.13
